@@ -128,3 +128,28 @@ body::before {
     margin-top: 20px;
 }
 
+.button1 {
+    color: white;
+    margin-right: 50px;
+    padding: 10px 30px 10px 30px;
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba(158, 147, 147, 0.363);
+    box-shadow: 5px 15px 20px rgb(0, 0, 0);
+    border-radius: 7px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.button2 {
+    color: white;
+    padding: 10px 30px 10px 30px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(158, 147, 147, 0.363);
+    box-shadow: 5px 15px 20px rgb(32, 31, 31);
+    border-radius: 7px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.box-button a {
+    text-decoration: none;
+}
