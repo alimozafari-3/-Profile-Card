@@ -153,3 +153,14 @@ body::before {
 .box-button a {
     text-decoration: none;
 }
+.box-butten {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.border {
+    width: 2px;
+    height: 18px;
+    background-color: white;
+}
